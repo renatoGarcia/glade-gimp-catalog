@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glade-catalog name="gimp" library="gimpwidgets-2.0" depends="gtk+">
   <glade-widget-classes>
-<<<<<<< HEAD
-
     <glade-widget-class name="GimpButton" generic-name="gimpbutton" title="Gimp Button" />
     <glade-widget-class name="GimpChainButton" generic-name="gimpchainbutton" title="Gimp Chain Button" />
     <glade-widget-class name="GimpColorArea" generic-name="gimpcolorarea" title="Gimp Color Area" />
@@ -76,11 +74,5 @@
     <glade-widget-class-ref name="GimpStringComboBox" />
     <glade-widget-class-ref name="GimpUnitMenu" />
     <glade-widget-class-ref name="GimpZoomModel" />
-=======
-    <glade-widget-class name="GimpButton" generic-name="genname" title="um titulo" />
-  </glade-widget-classes>
-  <glade-widget-group  name="gimp-widgets" title="Gimp Widgets">
-    <glade-widget-class-ref name="GimpButton" />
->>>>>>> 47c8a4805496bc33f79522f9d5cc6f918d3a931b
   </glade-widget-group>
 </glade-catalog>
