@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glade-catalog name="gimp" library="gimpwidgets-2.0" depends="gtk+">
+  <glade-widget-classes>
+    <glade-widget-class name="GimpButton" generic-name="genname" title="um titulo" />
+  </glade-widget-classes>
+  <glade-widget-group  name="gimp-widgets" title="Gimp Widgets">
+    <glade-widget-class-ref name="GimpButton" />
+  </glade-widget-group>
+</glade-catalog>
